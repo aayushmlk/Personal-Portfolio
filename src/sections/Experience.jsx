@@ -1,5 +1,5 @@
 const experiences = [
-  {
+  /* {
     period: "2022 — Present",
     role: "Senior FullStack Engineer",
     company: "Tech Innovators Inc.",
@@ -25,14 +25,23 @@ const experiences = [
       "Contributed to the development of a SaaS platform from MVP to production. Collaborated with designers to implement pixel-perfect UI components.",
     technologies: ["React", "Node.js", "MongoDB", "AWS"],
     current: false,
-  },
+  }, */
   {
-    period: "2018 — 2019",
+    period: "2023 — Present",
     role: "Freelance Developer",
     company: "Self-Employed",
     description:
-      "Delivered custom web solutions for small businesses and startups. Built 15+ websites and applications, handling everything from design to deployment.",
-    technologies: ["JavaScript", "PHP", "WordPress", "MySQL"],
+      "As a Freelance Developer, I design and build custom web and mobile applications from concept to deployment. I have completed 35+ projects, handling full-stack development, mobile apps, and AI/ML integrations to create intelligent, scalable, and user-friendly solutions.",
+    technologies: [
+      "MERN Stack",
+      "PostgreSQL",
+      "TypeScript",
+      "Python",
+      "Flutter",
+      "FastAPI and Rest APIs",
+      "Unity3D",
+      "Power BI"
+    ],
     current: false,
   },
 ];
@@ -97,8 +106,8 @@ export const Experience = () => {
                 {/* Content */}
                 <div
                   className={`pl-8 md:pl-0 ${idx % 2 === 0
-                      ? "md:pr-16 md:text-right"
-                      : "md:col-start-2 md:pl-16"
+                    ? "md:pr-16 md:text-right"
+                    : "md:col-start-2 md:pl-16"
                     }`}
                 >
                   <div
