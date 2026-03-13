@@ -17,7 +17,7 @@ const testimonials = [
   },
   {
     quote:
-      "Partnering with Aayush significantly strengthened our mobile app project. He applied his expertise to deliver intelligent, innovative features, optimize workflows, and create a reliable, high-performing, user-friendly application.",
+      "Teaming up with Aayush significantly strengthened our mobile app project. He applied his expertise to deliver intelligent, innovative features, optimize workflows, and create a reliable, high-performing, user-friendly application.",
     author: "Ananya Timsina",
     role: "Mobile App Developer",
     avatar: "/avatar3.png", // local image
