@@ -20,7 +20,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+9779824106174",
+    value: "+977 9824106174",
     href: "tel:+9779824106174",
   },
   {
