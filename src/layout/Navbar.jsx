@@ -34,7 +34,7 @@ export const Navbar = () => {
           href="#hero"
           className="text-xl font-bold tracking-tight hover:text-primary uppercase"
         >
-          Er. Aayush Mallick<span className="text-primary">.</span>
+          Er<span className="text-primary">.</span> Aayush Mallick
         </a>
 
         {/* Desktop Nav */}

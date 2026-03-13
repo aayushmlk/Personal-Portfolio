@@ -73,19 +73,19 @@ export const Hero = () => {
 
             {/* Headline */}
             <div className="space-y-4">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
-                Crafting <span className="text-primary glow-text">digital</span>
+              <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight animate-fade-in animation-delay-100">
+                <span className="font-normal text-white">Building </span>
+                <span className="text-primary glow-text"> Smarter</span>
                 <br />
-                experiences with
-                <br />
-                <span className="font-serif italic font-normal text-white">
-                  precision.
-                </span>
+                Web Apps
+                <span className="font-normal text-white"> and </span>
+                <span className="text-primary glow-text"> Intelligent</span> AI Solutions.
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Aayush Mallick — a computer engineer specializing in
-                React, Next.js, and TypeScript. I build scalable, performant web
-                applications that users love.
+                I'm Aayush Mallick, a Computer Engineer specializing in MERN Stack development, Node.js,
+                and Python-based AI systems.
+                I build scalable web platforms and intelligent applications powered by machine learning,
+                reinforcement learning, and image recognition technologies.
               </p>
             </div>
 
