@@ -79,7 +79,7 @@ export const Experience = () => {
             className="text-muted-foreground
            animate-fade-in animation-delay-200"
           >
-            A timeline of my professional growth, from concept to creation of scalable products.
+            A journey of professional growth, from concept to creating scalable products.
           </p>
         </div>
 
