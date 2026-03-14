@@ -4,11 +4,11 @@ const projects = [
   {
     title: "Foodoto - A food calorie counter app",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "**Foodoto** is an AI-powered app that recognizes 36 different fruits and vegetables from a photo and instantly provides calorie count, nutrition breakdown, and healthy eating tips. Built with TensorFlow and Streamlit.",
     image: "/projects/project1.png",
-    tags: ["React", "Typescript", "NodeJS"],
-    link: "#",
-    github: "#",
+    tags: ["Python", "Streamlit", "TensorFlow", "Inception-V3"],
+    link: "https://aayushmlk-foodoto.hf.space/",
+    github: "https://github.com/aayushmlk/foodoto",
   },
   {
     title: "E-Commerce Platform",
