@@ -4,7 +4,7 @@ const projects = [
   {
     title: "Foodoto - A food calorie counter app",
     description:
-      "**Foodoto** is an AI-powered app that recognizes 36 different fruits and vegetables from a photo and instantly provides calorie count, nutrition breakdown, and healthy eating tips. Built with TensorFlow and Streamlit.",
+      "Foodoto is an ML-powered app that recognizes 36 different fruits and vegetables from a photo and instantly provides calorie count, nutrition breakdown, and healthy eating tips. Built with TensorFlow and Streamlit.",
     image: "/projects/project1.png",
     tags: ["Python", "Streamlit", "TensorFlow", "Inception-V3"],
     link: "https://aayushmlk-foodoto.hf.space/",
